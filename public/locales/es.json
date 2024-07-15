@@ -1,0 +1,20 @@
+{
+    "MENU": {
+        "PROFILE": "Perfil",
+        "LOGOUT": "Salir",
+        "MENU": "Menú",
+        "TRANSCRIPTS": "Transcripciones",
+        "SETTINGS": "Settings",
+        "TRANSCRIPT_AND_RESUME": "Transcripts"
+    },
+    "CONTEN": {},
+    "TEXT": "Text ssdsdsdds",
+    "ACCESS": "Acessar",
+    "WELCOME": "Sea bienvenido",
+    "FILL_DATA": "Completa tus datos",
+    "LANGUAGES": {
+        "en": "Ingles",
+        "pt": "Portuguese",
+        "es": "Español"
+    }
+}

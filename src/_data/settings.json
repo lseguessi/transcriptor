@@ -1,0 +1,26 @@
+{
+    "sidebar": [
+        {
+            "title": "MENU",
+            "icon": "justice",
+            "link": "/home"
+        },
+        {
+            "title": "TRANSCRIPTS",
+            "icon": "transcripts",
+            "link": "/transcripts"
+        },
+        {
+            "title": "SETTINGS",
+            "icon": "settings",
+            "link": "/settings"
+        }
+    ],
+    "menu": [
+        {
+            "i18N": "TRANSCRIPT_AND_RESUME",
+            "img": "../images/img-menu-1.jpeg",
+            "link": "/transcripts"
+        }
+    ]
+}

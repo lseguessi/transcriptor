@@ -1,0 +1,14 @@
+@keyframes loading {
+    0% {
+        transform: rotate(0)
+    }
+
+    100% {
+        transform: rotate(-360deg)
+    }
+}
+
+.girar-infinito {
+    animation: loading 5s linear infinite;
+    /* Controle o tempo de giro, mudando o numero. */
+}
